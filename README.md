@@ -12,12 +12,6 @@
 
 • database, one word
 
-###E###
-
-• ellipses: a space appears before the first period and after the third period. *(Example: Try it out ... you might like it.)*
-
-• exclamation points: use only one at the end of a sentence, no matter how excited you are (Note: If you use one in a headline, avoid using one in the first few lines of the body copy that accompanies it.)  
-
 ###F###
 
 • fractions: Always spell out. One-third, not ⅓. (Exception: in recipes)
@@ -70,12 +64,6 @@
 
 • pre- and post- : no hyphen unless followed by capitals *(Examples: prenatal, postgraduate, pre-MIT)*
 
-###Q###
-
-• question marks: use only one at the end of a sentence, no matter how urgent your question
-
-• quotation marks: always go outside of commas, periods, exclamation points, question marks, and ellipses *(Examples: "I think I've found the answer!" // "Oh, really?" // "Well ..." he said, "maybe not." // "OK." She turned back around. "There's always next time.")*
-
 ###R###
 
 • re- : doesn't normally take a hyphen. Takes a hyphen when closing the prefix would accidentally create another word *(Examples: reconstruct, reopen BUT re-present, re-creation)*
@@ -122,19 +110,26 @@
 
 ###A###
 
-• Acronyms and Abbreviations - neither require periods after each letter *(Examples: SCUBA, MGH)* Avoid using them in the title or subtitle. 
+**Acronyms and Abbreviations**
 
-• Addresses - 
+Neither require periods after each letter *(Examples: SCUBA, MGH)* Avoid using them in the title or subtitle. 
 
-(1) spell out Road, Street, Boulevard, Lane, etc. 
-(2) never abbreviate the name of any city, except for St. *(Examples: St. Louis, St. Paul)* 
-(3) unless it's within a mailing address, never abbreviate the name of a state *(Example: Our home office is located in Massachusetts.)*
+**Addresses** 
 
-• Apostrophes - don't use them to make something plural *(Examples: 1980s, ABCs)*
+* spell out Road, Street, Boulevard, Lane, etc.
+* spell out the direction of a street name *(Example: 125 South Walnut Street)*
+* never abbreviate the name of any city, except for St. *(Examples: St. Louis, St. Paul)* 
+* unless it's within a mailing address, never abbreviate the name of a state *(Example: Our home office is located in Massachusetts.)*
+
+**Apostrophes**
+
+Don't use them to make something plural. *(Examples: 1980s, ABCs)*
 
 ###B###
 
-• Bullets - Use them to make a long, multiclause sentence easier to read. Precede the bullets with a word that is common to all the bullets. Follow that word with a colon. If the bulleted list involves complete sentences, capitalize and punctuate each item. 
+**Bullets**
+
+Use them to make a long, multiclause sentence easier to read. Precede the bullets with a word that is common to all the bullets. Follow that word with a colon. If the bulleted list involves complete sentences, capitalize and punctuate each item. 
 
 _Example:_
 
@@ -146,15 +141,73 @@ _There are three reasons why we can't give you a raise:_
 
 But if the list involves sentence fragments, don't capitalize after the bullet or punctuate after each item.
 
-*Example:
-We can't give you a raise because you are:
-• often asleep at your desk
-• insufferable
-• stinky in your Halloween costume
+_Example:_
+
+_We can't give you a raise because you are:_
+* _often asleep at your desk_
+* _insufferable_
+* _stinky in your Halloween costume_
 
 ###C###
 
+**Citations**
 
+Titles of books, movies, TV shows, and articles go in quotes. *(Examples: "Apex Hides the Hurt" "Run Lola Run" "Bojack Horseman" "Street Style: Paris Fashion Week")*.
+
+**Colons**
+
+Use colons to direct attention to:
+
+*  a list _(Example: I am guilty of three of the seven deadly sins: greed, gluttony, and sloth.)_ 
+*  a quotation _(Example: Consider the words of Minnie Riperton: "Loving you is easy 'cause you're beautiful.")_
+
+Don't use capitalization after a colon in text, unless it's in a heading or subheading. *(Example: "Patient: The True Story of a Rare Illness")*
+
+**Commas**
+
+Use a serial comma (also known as the Oxford comma) before "and" or "or" in a series. *(Example: I went to the store for beer, ice cream, and fireworks.)*
+
+Use a comma to set off the year in a complete date, but don't use a comma within the month and year. *(Examples: Be sure to offload your steps by October 31, 2016. The contest will end in October 2016.)*
+
+For professional degrees, use a comma after the degree if the name doesn't end the sentence. *(Example: Meghan Neuringer, MD, will meet with you now.)*
+
+Use a comma between the elements of an address or after the name of a state. *(Example: The party bus left Boston, Massachusetts on Friday and arrived in Las Vegas, Nevada the following Wednesday.)*
+
+**Company name**
+
+Our official company name is MYH, Inc. You can write “MeYou Health,” or you can write “MYH, Inc.,” but do not write “MeYou Health, Inc.” 
+
+Don’t refer to MeYou Health as “MeYou”
+
+Don’t refer to MeYou Health as MYH in first reference. You can refer to MeYou Health as MYH in second and subsequent references. *(Example: MeYou Health helps you do more. Let MYH demo its platform for you today.)* 
+
+Whenever possible, do not use “MeYou Health’s” when writing. *(Examples: MeYou Health technology improves your population’s well-being. The MeYou Health well-being platform drives engagement.)* 
+
+**Ellipses**
+
+A space appears before the first period and after the third period. *(Example: Try it out ... you might like it.)*
+
+**Exclamation points**
+
+Use only one at the end of a sentence, no matter how excited you are (**Note:** If you use one in a headline, avoid using one in the first few lines of the body copy that accompanies it.)  
+
+**Job titles**
+
+
+**Question marks**
+
+Use only one at the end of a sentence, no matter how urgent your question.
+
+**Quotation marks**
+
+They always go outside of commas, periods, exclamation points, question marks, and ellipses. 
+
+_Examples:_ 
+
+* _"I think I've found the answer!"_
+* _"Oh, really?"_
+* _"Well ..." he said, "maybe not."_
+* _"That's OK." She smiled. "There's always next time."_
 
 
 
