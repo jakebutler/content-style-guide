@@ -102,7 +102,7 @@
 
 ###U###
 
-• US - Use this abbreviation when it's used as a modifier, but spell it out when it's used as a noun. *(Examples: US Department of Agriculture. The United States is gettign warmer.)*
+• US - Use this abbreviation when it's used as a modifier, but spell it out when it's used as a noun. *(Examples: US Department of Agriculture. The United States is getting warmer.)*
 
 ###W###
 
@@ -117,3 +117,49 @@
 ###Z###
 
 • ZIP Code, not Zip code or zipcode 
+
+##Style##
+
+###A###
+
+• Acronyms and Abbreviations - neither require periods after each letter *(Examples: SCUBA, MGH)* Avoid using them in the title or subtitle. 
+
+• Addresses - 
+
+(1) spell out Road, Street, Boulevard, Lane, etc. 
+(2) never abbreviate the name of any city, except for St. *(Examples: St. Louis, St. Paul)* 
+(3) unless it's within a mailing address, never abbreviate the name of a state *(Example: Our home office is located in Massachusetts.)*
+
+• Apostrophes - don't use them to make something plural *(Examples: 1980s, ABCs)*
+
+###B###
+
+• Bullets - Use them to make a long, multiclause sentence easier to read. Precede the bullets with a word that is common to all the bullets. Follow that word with a colon. If the bulleted list involves complete sentences, capitalize and punctuate each item. 
+
+_Example:_
+
+_There are three reasons why we can't give you a raise:_
+
+* _We often find you asleep at your desk._
+* _Your colleagues say you are insufferable._
+* _You have been wearing a your Halloween costume for a month now._
+
+But if the list involves sentence fragments, don't capitalize after the bullet or punctuate after each item.
+
+*Example:
+We can't give you a raise because you are:
+• often asleep at your desk
+• insufferable
+• stinky in your Halloween costume
+
+###C###
+
+
+
+
+
+
+
+
+
+
