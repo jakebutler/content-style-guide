@@ -131,7 +131,7 @@ Neither require periods after each letter *(Examples: SCUBA, MGH)* Avoid using t
 
 Don't use them to make something plural. *(Examples: piñatas, 1980s, ABCs, cabanas)* Use them to show possession. *(Examples: the porcupine's quills , Polly's phone, the car's interior, the birthday boy's party)
 
-If you have a noun that ends with an "s," add an apostrophe after the "s." *(Examples: the Silvers' yard, Brussels' best restaurants, the iris' color) 
+If you have a noun that ends with an "s," add an apostrophe after the "s." *(Examples: the Silvers' yard, Brussels' best restaurants, the iris' color)* 
 
 
 **Bullets**
