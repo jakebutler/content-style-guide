@@ -22,7 +22,7 @@
 
 * health care, not healthcare
 
-* health care provider, not health-care provider
+* health care provider, not not healthcare provider or health-care provider
 
 * HRA or health risk assessment
 
@@ -46,7 +46,7 @@
 
 ### N
 
-* non - prefix doesn't use a hyphen unless it's followed by a capitalized word or a word that starts with "n" *(Examples: nonprofit, nonfat BUT non-Catholic, non-negotiable)*
+* non: prefix doesn't use a hyphen unless it's followed by a capitalized word or a word that starts with "n" *(Examples: nonprofit, nonfat* BUT *non-Catholic, non-negotiable)*
 
 ### O
 
@@ -90,7 +90,7 @@
 
 * time zone, not timezone
 
-* Trademarks: Always check the trademark usage of products and use them on first reference, e.g., Fitbit Zip™. You don’t need it for subsequent references. MYH product trademarks: Daily Challenge®, Walkadoo®, QuitNet®.
+* Trademarks: Always check the trademark usage of products and use them on first reference. You don’t need it for subsequent references. *(Example: You are eligible for a Fitbit Zip™. Why not order your Fitbit Zip now?)* MYH product trademarks: Daily Challenge®, Walkadoo®, QuitNet®.
 
 * type 2 diabetes, not Type 2 or Type II
 
@@ -104,7 +104,7 @@
 
 * website, one word, lowercase
 
-* well - Hyphenate it when it's a compound adjective before a noun, but don't hyphenate when it comes after the noun. *(Examples: It is a well-defined role. I bet her role is well defined.)*
+* well: Hyphenate it when it's a compound adjective before a noun, but don't hyphenate when it comes after the noun. *(Examples: It is a well-defined role. Her role is well defined.)*
 
 * well-being, not wellbeing or well being
 
@@ -129,7 +129,9 @@ Neither require periods after each letter *(Examples: SCUBA, MGH)* Avoid using t
 
 **Apostrophes**
 
-Don't use them to make something plural. *(Examples: 1980s, ABCs)*
+Don't use them to make something plural. *(Examples: piñatas, 1980s, ABCs, cabanas)* Use them to show possession. *(Examples: the porcupine's quills , Polly's phone, the car's interior, the birthday boy's party)
+
+If you have a noun that ends with an "s," add an apostrophe after the "s." *(Examples: the Silvers' yard, Brussels' best restaurants, the iris' color) 
 
 
 **Bullets**
@@ -208,7 +210,7 @@ Use them to:
 
 Suspend hyphens when using them in a series. *(Example: Do you want a first-, second-, or third-class ticket?)*
 
-Words that end in "ly" don't take a hyphen. *(Example: A fully functional platform* NOT *A fully-functional platform)*
+Words that end in "ly" never take a hyphen. *(Example: A fully functional platform* NOT *A fully-functional platform)*
 
 
 **Job titles**
@@ -252,7 +254,7 @@ _Examples:_
 
 **Affect/Effect**
 
-Affect as a verb means to have an influence on. Effect as a verb means to bring about our cause. They can't be used interchangeably. *(Examples: Her work was sorely affected by the size of her desk.* BUT *She began feeling the effects of the smoke right away.)*
+Affect as a verb means to have an influence on. Effect as a verb means to bring about our cause. They cannot be used interchangeably. *(Examples: Her work was sorely affected by the size of her desk.* BUT *She began feeling the effects of the smoke right away.)*
 
 Affect as a noun refers to immediate expressions of emotion. Unless your topic is psychology, you will rarely need to use the noun affect.
 
@@ -266,7 +268,7 @@ Use "since" when talking about a period of time that has passed. *(Example: Sinc
 
 **e.g. and i.e.**
 
-e.g. is from the Latin *exempli gratia*: "for example" and i.e. is from *id est*: "that is." The use of i.e. implies that the items that follow are specific and conclusive. A comma follows each one. *(Examples: Bring something fun to the party, e.g., gin, candy, confetti)* BUT *Tomorrow I will wear my favorite socks, i.e., the ones with the glittery orange stars.)*        
+e.g. is from the Latin *exempli gratia*: "for example" and i.e. is from *id est*: "that is." The use of i.e. implies that the items that follow are specific and conclusive. A comma follows each one. *(Examples: Bring something fun to the party, e.g., vodka, candy, confetti)* BUT *Tomorrow I will wear my favorite socks, i.e., the ones with the glittery orange stars.)*        
 
 **Farther/Further**
 
@@ -282,13 +284,13 @@ Use "less" when you’re referring to something that can’t you can't count or 
 
 **That/Which**
 
-"That" introduces a limiting or defining clause. "Which" introduces a nondefining or parenthetical clause, and is always preceded by a comma. *(Examples: Downtown Boston, which is a great place to see Keytar Bear, is only 30 minutes from here.* BUT *The keytar is the instrument that he uses to create memorable jams.)*
+"That" introduces a limiting or defining clause. "Which" introduces a nondefining or parenthetical clause, and is always preceded by a comma. *(Examples: Downtown Boston, which is a great place to see Keytar Bear, is only 15 minutes from here.* BUT *This keytar is the instrument that he uses to create memorable jams.)*
 
 ##Medical terms and preferred usage##
 
 * syndrome is lowercase *(Example: Down syndrome)*
 
-* “S” is sometimes but not always used with the proper name of a disease or syndrome *(Example: Tourette syndrome* BUT *Ewing’s sarcoma.)* Look it up in an approved source if you aren’t sure.
+* “s” is sometimes but not always used with the proper name of a disease or syndrome *(Example: Tourette syndrome* BUT *Ewing’s sarcoma.)* Look it up in an approved source if you aren’t sure.
 
 * If a disease has a person’s name or place in the name, the first letter is capitalized. The second word is not. *(Examples: Lyme disease, Alzheimer’s disease)*
 
