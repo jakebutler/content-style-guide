@@ -1,3 +1,7 @@
+######Welcome to the MeYou Health Style Guide######
+
+We've created this guide to ensure that our written content and style are consistent, and to clarify the correct usage of some common words and phrases. Because we are a well-being company, there is also a section on preferred medical terms and usage. If you work at a different organization, we invite you to check out this style guide and adapt it for your own use.  
+
 ## Consistency
 
 ### A
@@ -14,7 +18,7 @@
 
 ### F
 
-* fractions: Always spell out. One-third, not ⅓. (Exception: in recipes)
+* fractions: Always spell out. One third, not ⅓. (Exception: in recipes)
 
 * full time/part time: have a hyphen when used as adjectives but not when used as adverbs *(Examples: He is a full-time employee. I work part time.)*
 
@@ -22,7 +26,7 @@
 
 * health care, not healthcare
 
-* health care provider, not not healthcare provider or health-care provider
+* health care provider, not health-care provider
 
 * HRA or health risk assessment
 
@@ -32,7 +36,7 @@
 
 ### J
 
-* judgment - omit the "e"
+* judgment: omit the "e"
 
 ### L
 
@@ -46,11 +50,11 @@
 
 ### N
 
-* non: prefix doesn't use a hyphen unless it's followed by a capitalized word or a word that starts with "n" *(Examples: nonprofit, nonfat* BUT *non-Catholic, non-negotiable)*
+* non: prefix doesn't use a hyphen unless it's followed by a capitalized word or a word that starts with "n" *(Examples: nonprofit, nonfat BUT non-Catholic, non-negotiable)*
 
 ### O
 
-* OK, not O.K. or okay
+* OK, not O.K, ok, or okay
 
 * online, one word
 
@@ -68,7 +72,7 @@
 
 ### R
 
-* re- : doesn't normally take a hyphen. Takes a hyphen when closing the prefix would accidentally create another word *(Examples: reconstruct, reopen* BUT *re-present, re-creation)*
+* re- : Doesn't normally take a hyphen. Takes a hyphen when closing the prefix would accidentally create another word *(Examples: reconstruct, reopen* BUT *re-present, re-creation)*
 
 ### S
 
@@ -82,7 +86,7 @@
 
 ### T
 
-* Temperature: Use Fahrenheit followed by Celsius
+* Temperature: use Fahrenheit followed by Celsius
 
 * Terms of Use and Privacy Policy are both capped. Note that the "o" in "of" is not capped.
 
@@ -90,7 +94,9 @@
 
 * time zone, not timezone
 
-* Trademarks: Always check the trademark usage of products and use them on first reference. You don’t need it for subsequent references. *(Example: You are eligible for a Fitbit Zip™. Why not order your Fitbit Zip now?)* MYH product trademarks: Daily Challenge®, Walkadoo®, QuitNet®.
+* Trademarks: Always check the trademark usage of products and use them on first reference, e.g., Fitbit Zip™. You don’t need it for subsequent references. MYH product trademarks: Daily Challenge®, Walkadoo®, QuitNet®.
+
+* turn-key, not turnkey or turn key
 
 * type 2 diabetes, not Type 2 or Type II
 
@@ -104,7 +110,7 @@
 
 * website, one word, lowercase
 
-* well: Hyphenate it when it's a compound adjective before a noun, but don't hyphenate when it comes after the noun. *(Examples: It is a well-defined role. Her role is well defined.)*
+* well: Hyphenate it when it's a compound adjective before a noun, but don't hyphenate when it comes after the noun. *(Examples: It is a well-defined role. I bet her role is well defined.)*
 
 * well-being, not wellbeing or well being
 
@@ -118,7 +124,7 @@
 
 **Acronyms and Abbreviations**
 
-Neither require periods after each letter *(Examples: SCUBA, MGH)* Avoid using them in a title or subtitle.
+Neither require periods after each letter. *(Examples: SCUBA, MGH)* Avoid using them in a title or subtitle.
 
 **Addresses**
 
@@ -127,11 +133,13 @@ Neither require periods after each letter *(Examples: SCUBA, MGH)* Avoid using t
 * never abbreviate the name of any city, except for St. *(Examples: St. Louis, St. Paul)*
 * unless it's within a mailing address, never abbreviate the name of a state *(Example: Our home office is located in Massachusetts.)*
 
+**Ampersands**
+
+Don't use them in text. It's OK to use them when they are part of a proper noun or you are referring to a page title that contains one. *(Examples: Welcome to the Foundation for Art & Healing. Please go to our Help & Support page to learn more.)*
+
 **Apostrophes**
 
-Don't use them to make something plural. *(Examples: piñatas, 1980s, ABCs, cabanas)* Use them to show possession. *(Examples: the porcupine's quills , Polly's phone, the car's interior, the birthday boy's party)
-
-If you have a noun that ends with an "s," add an apostrophe after the "s." *(Examples: the Silvers' yard, Brussels' best restaurants, the iris' color)* 
+Don't use them to make something plural. *(Examples: 1980s, ABCs, piñatas, cabanas)*
 
 
 **Bullets**
@@ -144,7 +152,7 @@ _There are three reasons why we can't give you a raise:_
 
 * _We often find you asleep at your desk._
 * _Your colleagues say you are insufferable._
-* _You have been wearing a your Halloween costume for a month now._
+* _You have been wearing your Halloween costume for a month now._
 
 But if the list involves sentence fragments, don't capitalize after the bullet or punctuate after each item.
 
@@ -210,7 +218,7 @@ Use them to:
 
 Suspend hyphens when using them in a series. *(Example: Do you want a first-, second-, or third-class ticket?)*
 
-Words that end in "ly" never take a hyphen. *(Example: A fully functional platform* NOT *A fully-functional platform)*
+Words that end in "ly" don't take a hyphen. *(Example: A fully functional platform* NOT *A fully-functional platform)*
 
 
 **Job titles**
@@ -254,7 +262,7 @@ _Examples:_
 
 **Affect/Effect**
 
-Affect as a verb means to have an influence on. Effect as a verb means to bring about our cause. They cannot be used interchangeably. *(Examples: Her work was sorely affected by the size of her desk.* BUT *She began feeling the effects of the smoke right away.)*
+Affect as a verb means to have an influence on. Effect as a verb means to bring about our cause. They can't be used interchangeably. *(Examples: Her work was sorely affected by the size of her desk.* BUT *She began feeling the effects of the smoke right away.)*
 
 Affect as a noun refers to immediate expressions of emotion. Unless your topic is psychology, you will rarely need to use the noun affect.
 
@@ -268,7 +276,7 @@ Use "since" when talking about a period of time that has passed. *(Example: Sinc
 
 **e.g. and i.e.**
 
-e.g. is from the Latin *exempli gratia*: "for example" and i.e. is from *id est*: "that is." The use of i.e. implies that the items that follow are specific and conclusive. A comma follows each one. *(Examples: Bring something fun to the party, e.g., vodka, candy, confetti)* BUT *Tomorrow I will wear my favorite socks, i.e., the ones with the glittery orange stars.)*        
+e.g. is from the Latin *exempli gratia*: "for example" and i.e. is from *id est*: "that is." The use of i.e. implies that the items that follow are specific and conclusive. A comma follows each one. *(Examples: Bring something fun to the party, e.g., gin, candy, confetti.)* BUT *Tomorrow I will wear my favorite socks, i.e., the ones with the glittery orange stars.)*        
 
 **Farther/Further**
 
@@ -284,13 +292,13 @@ Use "less" when you’re referring to something that can’t you can't count or 
 
 **That/Which**
 
-"That" introduces a limiting or defining clause. "Which" introduces a nondefining or parenthetical clause, and is always preceded by a comma. *(Examples: Downtown Boston, which is a great place to see Keytar Bear, is only 15 minutes from here.* BUT *This keytar is the instrument that he uses to create memorable jams.)*
+"That" introduces a limiting or defining clause. "Which" introduces a nondefining or parenthetical clause, and is always preceded by a comma. *(Examples: Downtown Crossing, which is a great place to see Keytar Bear, is only 15 minutes from here.* BUT *The keytar is the instrument that he uses to create memorable jams.)*
 
 ##Medical terms and preferred usage##
 
 * syndrome is lowercase *(Example: Down syndrome)*
 
-* “s” is sometimes but not always used with the proper name of a disease or syndrome *(Example: Tourette syndrome* BUT *Ewing’s sarcoma.)* Look it up in an approved source if you aren’t sure.
+* “'s” is sometimes but not always used with the proper name of a disease or syndrome *(Example: Tourette syndrome* BUT *Ewing’s sarcoma.)* Look it up in an approved source if you aren’t sure.
 
 * If a disease has a person’s name or place in the name, the first letter is capitalized. The second word is not. *(Examples: Lyme disease, Alzheimer’s disease)*
 
