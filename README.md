@@ -1,4 +1,4 @@
-######Welcome to the MeYou Health Style Guide######
+##Welcome to the MeYou Health Style Guide##
 
 We've created this guide to ensure that our written content and style are consistent, and to clarify the correct usage of some common words and phrases. Because we are a well-being company, there is also a section on preferred medical terms and usage. If you work at a different organization, we invite you to check out this style guide and adapt it for your own use.  
 
