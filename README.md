@@ -208,7 +208,7 @@ Use only one at the end of a sentence, no matter how excited you are. (**Note:**
 
 Use them to:
 
-* separate parts of compound words. If you are in doubt, use a dictionary to learn whether to use one word, two words, or one hyphenated word. *(Example: water-repellant* BUT *waterproof*)
+* separate parts of compound words. If you are in doubt, use a dictionary to learn whether to use one word, two words, or one hyphenated word. *(Example: water-repellent* BUT *waterproof*)
 
 * connect a compound adjective *(Examples: That's not an FDA-approved drug! Thank goodness they provide after-hour care.)*
 
