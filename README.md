@@ -288,7 +288,7 @@ Farther is for literal distance; further refers to figurative distance. *(Exampl
 
 **Less/Fewer**
 
-Use "less" when you’re referring to something that can’t you can't count or make plural, like music or snow. Use "fewer" with objects you are referring to in the plural, like guinea pigs or books. *(Examples: I listen to less music today than I did a couple of years ago. He'd like to live in a place with less snow.* BUT *There were fewer guinea pigs in the cage than she expected! The store sells fewer books now.)* 
+Use "less" when you’re referring to something that you can't count or make plural, like music or snow. Use "fewer" with objects you are referring to in the plural, like guinea pigs or books. *(Examples: I listen to less music today than I did a couple of years ago. He'd like to live in a place with less snow.* BUT *There were fewer guinea pigs in the cage than she expected! The store sells fewer books now.)* 
 
 **That/Which**
 
