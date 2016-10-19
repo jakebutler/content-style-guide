@@ -262,7 +262,7 @@ _Examples:_
 
 **Affect/Effect**
 
-Affect as a verb means to have an influence on. Effect as a verb means to bring about our cause. They can't be used interchangeably. *(Examples: Her work was sorely affected by the size of her desk.* BUT *She began feeling the effects of the smoke right away.)*
+Affect as a verb means to have an influence on. Effect as a verb means to bring about or cause. They can't be used interchangeably. *(Examples: Her work was sorely affected by the size of her desk.* BUT *She began feeling the effects of the smoke right away.)*
 
 Affect as a noun refers to immediate expressions of emotion. Unless your topic is psychology, you will rarely need to use the noun affect.
 
